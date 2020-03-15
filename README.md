@@ -1,6 +1,6 @@
 ![roadmap](https://pycrawler.cupoy.com/images/learnWithCoachLogin.png)  
 
-* [排名賽](https://pycrawler.cupoy.com/ranking/homeworkrank)   
+* [排名賽](https://pycrawler.cupoy.com/ranking/homeworkrank) top 10% 
 * [個人主頁](https://pycrawler.cupoy.com/participator/84F13837/questions)  
 
 ## 1. 爬蟲基礎知識   
