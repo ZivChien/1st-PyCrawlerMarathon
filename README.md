@@ -58,5 +58,6 @@
 37. [自動化更新機制(排程)](https://github.com/ZivChien/1st-PyCrawlerMarathon/blob/master/homework/Day037_HW.ipynb) `利用排程自動化爬蟲更新資料的操作`
 
 ## 6. 期末實戰專題
-> 整合課程內所學並實作一個項目   
+> 整合課程內所學並實作一個項目     
+
 [Final Project](https://github.com/ZivChien/1st-PyCrawlerMarathon/blob/master/homework/Day038_final_project.ipynb)
